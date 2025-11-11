@@ -1,5 +1,5 @@
 <script setup>
-import Header from "./views/Header.vue";
+import Header from "./components/Header.vue";
 import HeroSection from "./views/HeroSection.vue";
 import HomeSection from "./views/HomeSection.vue";
 import TransferSection from "./views/TransferSection.vue";
@@ -9,7 +9,7 @@ import InvestmentSection from "./views/InvestmentSection.vue";
 import ConvenienceSection from "./views/ConvenienceSection.vue";
 import PaymentSection from "./views/PaymentSection.vue";
 import BusinessSection from "./views/BusinessSection.vue";
-import Footer from "./views/Footer.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
